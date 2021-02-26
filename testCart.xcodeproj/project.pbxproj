@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5F05FA8125DC464B00AF1A83 /* DropdownFieldTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F05FA8025DC464B00AF1A83 /* DropdownFieldTest.swift */; };
+		5F05FAB625DC9C1A00AF1A83 /* DropDownVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F05FAB525DC9C1A00AF1A83 /* DropDownVC.swift */; };
+		5F05FABC25DC9C9600AF1A83 /* DropDownCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F05FABA25DC9C9600AF1A83 /* DropDownCell.swift */; };
+		5F05FABD25DC9C9600AF1A83 /* DropDownCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F05FABB25DC9C9600AF1A83 /* DropDownCell.xib */; };
+		5F29DEFD25E42CCC00E1EF03 /* ImageSlider_VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F29DEFC25E42CCC00E1EF03 /* ImageSlider_VC.swift */; };
+		5F29DF0225E432F500E1EF03 /* SliderCVcell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F29DF0125E432F500E1EF03 /* SliderCVcell.swift */; };
+		5F9B8CD625C32DDE00719706 /* MenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9B8CD525C32DDE00719706 /* MenuVC.swift */; };
 		5F9D147025BF5C5000808C6A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9D146F25BF5C5000808C6A /* AppDelegate.swift */; };
 		5F9D147225BF5C5000808C6A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9D147125BF5C5000808C6A /* SceneDelegate.swift */; };
 		5F9D147725BF5C5000808C6A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5F9D147525BF5C5000808C6A /* Main.storyboard */; };
@@ -16,6 +23,8 @@
 		5F9D149225BF5C5300808C6A /* testCartUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9D149125BF5C5300808C6A /* testCartUITests.swift */; };
 		5F9D14A425BF5CA600808C6A /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9D14A225BF5CA600808C6A /* TableViewCell.swift */; };
 		5F9D14A525BF5CA600808C6A /* TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F9D14A325BF5CA600808C6A /* TableViewCell.xib */; };
+		5FB536DE25DEFAFD0054823A /* ImagePicker_VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB536DD25DEFAFD0054823A /* ImagePicker_VC.swift */; };
+		5FB536E325DEFF570054823A /* CamaraAndImgPicker_VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB536E225DEFF570054823A /* CamaraAndImgPicker_VC.swift */; };
 		5FED5ECF25BF654E00E7033E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FED5ECE25BF654E00E7033E /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -37,6 +46,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5F05FA8025DC464B00AF1A83 /* DropdownFieldTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropdownFieldTest.swift; sourceTree = "<group>"; };
+		5F05FAB525DC9C1A00AF1A83 /* DropDownVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropDownVC.swift; sourceTree = "<group>"; };
+		5F05FABA25DC9C9600AF1A83 /* DropDownCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropDownCell.swift; sourceTree = "<group>"; };
+		5F05FABB25DC9C9600AF1A83 /* DropDownCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DropDownCell.xib; sourceTree = "<group>"; };
+		5F29DEFC25E42CCC00E1EF03 /* ImageSlider_VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSlider_VC.swift; sourceTree = "<group>"; };
+		5F29DF0125E432F500E1EF03 /* SliderCVcell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderCVcell.swift; sourceTree = "<group>"; };
+		5F9B8CD525C32DDE00719706 /* MenuVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuVC.swift; sourceTree = "<group>"; };
 		5F9D146C25BF5C5000808C6A /* testCart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testCart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F9D146F25BF5C5000808C6A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5F9D147125BF5C5000808C6A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -52,6 +68,8 @@
 		5F9D149325BF5C5300808C6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5F9D14A225BF5CA600808C6A /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		5F9D14A325BF5CA600808C6A /* TableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCell.xib; sourceTree = "<group>"; };
+		5FB536DD25DEFAFD0054823A /* ImagePicker_VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker_VC.swift; sourceTree = "<group>"; };
+		5FB536E225DEFF570054823A /* CamaraAndImgPicker_VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CamaraAndImgPicker_VC.swift; sourceTree = "<group>"; };
 		5FED5ECE25BF654E00E7033E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -104,10 +122,19 @@
 			isa = PBXGroup;
 			children = (
 				5F9D146F25BF5C5000808C6A /* AppDelegate.swift */,
+				5F05FABA25DC9C9600AF1A83 /* DropDownCell.swift */,
+				5F05FABB25DC9C9600AF1A83 /* DropDownCell.xib */,
 				5F9D147125BF5C5000808C6A /* SceneDelegate.swift */,
 				5F9D147525BF5C5000808C6A /* Main.storyboard */,
+				5F29DF0125E432F500E1EF03 /* SliderCVcell.swift */,
+				5F29DEFC25E42CCC00E1EF03 /* ImageSlider_VC.swift */,
+				5FB536DD25DEFAFD0054823A /* ImagePicker_VC.swift */,
+				5F05FAB525DC9C1A00AF1A83 /* DropDownVC.swift */,
+				5F05FA8025DC464B00AF1A83 /* DropdownFieldTest.swift */,
+				5F9B8CD525C32DDE00719706 /* MenuVC.swift */,
 				5FED5ECE25BF654E00E7033E /* ViewController.swift */,
 				5F9D14A225BF5CA600808C6A /* TableViewCell.swift */,
+				5FB536E225DEFF570054823A /* CamaraAndImgPicker_VC.swift */,
 				5F9D14A325BF5CA600808C6A /* TableViewCell.xib */,
 				5F9D147825BF5C5200808C6A /* Assets.xcassets */,
 				5F9D147A25BF5C5200808C6A /* LaunchScreen.storyboard */,
@@ -240,6 +267,7 @@
 				5F9D147C25BF5C5200808C6A /* LaunchScreen.storyboard in Resources */,
 				5F9D14A525BF5CA600808C6A /* TableViewCell.xib in Resources */,
 				5F9D147925BF5C5200808C6A /* Assets.xcassets in Resources */,
+				5F05FABD25DC9C9600AF1A83 /* DropDownCell.xib in Resources */,
 				5F9D147725BF5C5000808C6A /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -265,10 +293,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5FB536DE25DEFAFD0054823A /* ImagePicker_VC.swift in Sources */,
+				5F29DF0225E432F500E1EF03 /* SliderCVcell.swift in Sources */,
 				5F9D14A425BF5CA600808C6A /* TableViewCell.swift in Sources */,
 				5F9D147025BF5C5000808C6A /* AppDelegate.swift in Sources */,
+				5FB536E325DEFF570054823A /* CamaraAndImgPicker_VC.swift in Sources */,
+				5F05FABC25DC9C9600AF1A83 /* DropDownCell.swift in Sources */,
+				5F05FAB625DC9C1A00AF1A83 /* DropDownVC.swift in Sources */,
 				5FED5ECF25BF654E00E7033E /* ViewController.swift in Sources */,
+				5F05FA8125DC464B00AF1A83 /* DropdownFieldTest.swift in Sources */,
 				5F9D147225BF5C5000808C6A /* SceneDelegate.swift in Sources */,
+				5F29DEFD25E42CCC00E1EF03 /* ImageSlider_VC.swift in Sources */,
+				5F9B8CD625C32DDE00719706 /* MenuVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
