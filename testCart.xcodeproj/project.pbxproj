@@ -11,8 +11,10 @@
 		5F05FAB625DC9C1A00AF1A83 /* DropDownVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F05FAB525DC9C1A00AF1A83 /* DropDownVC.swift */; };
 		5F05FABC25DC9C9600AF1A83 /* DropDownCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F05FABA25DC9C9600AF1A83 /* DropDownCell.swift */; };
 		5F05FABD25DC9C9600AF1A83 /* DropDownCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5F05FABB25DC9C9600AF1A83 /* DropDownCell.xib */; };
+		5F1DE7A3260D185100E32C3B /* buttonAnimation_VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F1DE7A2260D185100E32C3B /* buttonAnimation_VC.swift */; };
 		5F29DEFD25E42CCC00E1EF03 /* ImageSlider_VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F29DEFC25E42CCC00E1EF03 /* ImageSlider_VC.swift */; };
 		5F29DF0225E432F500E1EF03 /* SliderCVcell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F29DF0125E432F500E1EF03 /* SliderCVcell.swift */; };
+		5F85229525ECBFD700A2C4D0 /* ContainerView_VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F85229425ECBFD700A2C4D0 /* ContainerView_VC.swift */; };
 		5F9B8CD625C32DDE00719706 /* MenuVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9B8CD525C32DDE00719706 /* MenuVC.swift */; };
 		5F9D147025BF5C5000808C6A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9D146F25BF5C5000808C6A /* AppDelegate.swift */; };
 		5F9D147225BF5C5000808C6A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F9D147125BF5C5000808C6A /* SceneDelegate.swift */; };
@@ -26,6 +28,7 @@
 		5FB536DE25DEFAFD0054823A /* ImagePicker_VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB536DD25DEFAFD0054823A /* ImagePicker_VC.swift */; };
 		5FB536E325DEFF570054823A /* CamaraAndImgPicker_VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FB536E225DEFF570054823A /* CamaraAndImgPicker_VC.swift */; };
 		5FED5ECF25BF654E00E7033E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FED5ECE25BF654E00E7033E /* ViewController.swift */; };
+		B6BFCDB5ED9989CB21736D35 /* Pods_testCart.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 29B3C27DF26987433D22BCD7 /* Pods_testCart.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,12 +49,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		03A39792AFA0BB75C835864C /* Pods-testCart.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testCart.debug.xcconfig"; path = "Target Support Files/Pods-testCart/Pods-testCart.debug.xcconfig"; sourceTree = "<group>"; };
+		29B3C27DF26987433D22BCD7 /* Pods_testCart.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_testCart.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		43C3367FBED75C14BB95B814 /* Pods-testCart.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-testCart.release.xcconfig"; path = "Target Support Files/Pods-testCart/Pods-testCart.release.xcconfig"; sourceTree = "<group>"; };
 		5F05FA8025DC464B00AF1A83 /* DropdownFieldTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropdownFieldTest.swift; sourceTree = "<group>"; };
 		5F05FAB525DC9C1A00AF1A83 /* DropDownVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropDownVC.swift; sourceTree = "<group>"; };
 		5F05FABA25DC9C9600AF1A83 /* DropDownCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropDownCell.swift; sourceTree = "<group>"; };
 		5F05FABB25DC9C9600AF1A83 /* DropDownCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DropDownCell.xib; sourceTree = "<group>"; };
+		5F1DE7A2260D185100E32C3B /* buttonAnimation_VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = buttonAnimation_VC.swift; sourceTree = "<group>"; };
 		5F29DEFC25E42CCC00E1EF03 /* ImageSlider_VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageSlider_VC.swift; sourceTree = "<group>"; };
 		5F29DF0125E432F500E1EF03 /* SliderCVcell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderCVcell.swift; sourceTree = "<group>"; };
+		5F85229425ECBFD700A2C4D0 /* ContainerView_VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContainerView_VC.swift; sourceTree = "<group>"; };
 		5F9B8CD525C32DDE00719706 /* MenuVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuVC.swift; sourceTree = "<group>"; };
 		5F9D146C25BF5C5000808C6A /* testCart.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testCart.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F9D146F25BF5C5000808C6A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -78,6 +86,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6BFCDB5ED9989CB21736D35 /* Pods_testCart.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -98,6 +107,63 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5DE72E49720D6808EB76E008 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				03A39792AFA0BB75C835864C /* Pods-testCart.debug.xcconfig */,
+				43C3367FBED75C14BB95B814 /* Pods-testCart.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		5F85229025ECBF1E00A2C4D0 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		5F85229125ECBF2500A2C4D0 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				5F9D147525BF5C5000808C6A /* Main.storyboard */,
+				5F05FABB25DC9C9600AF1A83 /* DropDownCell.xib */,
+				5F9D14A325BF5CA600808C6A /* TableViewCell.xib */,
+				5F9D147A25BF5C5200808C6A /* LaunchScreen.storyboard */,
+				5F9D147825BF5C5200808C6A /* Assets.xcassets */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		5F85229225ECBF2A00A2C4D0 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				5F05FABA25DC9C9600AF1A83 /* DropDownCell.swift */,
+				5F29DF0125E432F500E1EF03 /* SliderCVcell.swift */,
+				5FB536E225DEFF570054823A /* CamaraAndImgPicker_VC.swift */,
+				5F29DEFC25E42CCC00E1EF03 /* ImageSlider_VC.swift */,
+				5FB536DD25DEFAFD0054823A /* ImagePicker_VC.swift */,
+				5F05FAB525DC9C1A00AF1A83 /* DropDownVC.swift */,
+				5F05FA8025DC464B00AF1A83 /* DropdownFieldTest.swift */,
+				5F9B8CD525C32DDE00719706 /* MenuVC.swift */,
+				5FED5ECE25BF654E00E7033E /* ViewController.swift */,
+				5F9D14A225BF5CA600808C6A /* TableViewCell.swift */,
+				5F85229425ECBFD700A2C4D0 /* ContainerView_VC.swift */,
+				5F1DE7A2260D185100E32C3B /* buttonAnimation_VC.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		5F85229325ECBF5E00A2C4D0 /* resource */ = {
+			isa = PBXGroup;
+			children = (
+				5F9D146F25BF5C5000808C6A /* AppDelegate.swift */,
+				5F9D147125BF5C5000808C6A /* SceneDelegate.swift */,
+			);
+			path = resource;
+			sourceTree = "<group>";
+		};
 		5F9D146325BF5C5000808C6A = {
 			isa = PBXGroup;
 			children = (
@@ -105,6 +171,8 @@
 				5F9D148525BF5C5300808C6A /* testCartTests */,
 				5F9D149025BF5C5300808C6A /* testCartUITests */,
 				5F9D146D25BF5C5000808C6A /* Products */,
+				5DE72E49720D6808EB76E008 /* Pods */,
+				8CA69BEB8CE1C4670A9D37A6 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -121,23 +189,10 @@
 		5F9D146E25BF5C5000808C6A /* testCart */ = {
 			isa = PBXGroup;
 			children = (
-				5F9D146F25BF5C5000808C6A /* AppDelegate.swift */,
-				5F05FABA25DC9C9600AF1A83 /* DropDownCell.swift */,
-				5F05FABB25DC9C9600AF1A83 /* DropDownCell.xib */,
-				5F9D147125BF5C5000808C6A /* SceneDelegate.swift */,
-				5F9D147525BF5C5000808C6A /* Main.storyboard */,
-				5F29DF0125E432F500E1EF03 /* SliderCVcell.swift */,
-				5F29DEFC25E42CCC00E1EF03 /* ImageSlider_VC.swift */,
-				5FB536DD25DEFAFD0054823A /* ImagePicker_VC.swift */,
-				5F05FAB525DC9C1A00AF1A83 /* DropDownVC.swift */,
-				5F05FA8025DC464B00AF1A83 /* DropdownFieldTest.swift */,
-				5F9B8CD525C32DDE00719706 /* MenuVC.swift */,
-				5FED5ECE25BF654E00E7033E /* ViewController.swift */,
-				5F9D14A225BF5CA600808C6A /* TableViewCell.swift */,
-				5FB536E225DEFF570054823A /* CamaraAndImgPicker_VC.swift */,
-				5F9D14A325BF5CA600808C6A /* TableViewCell.xib */,
-				5F9D147825BF5C5200808C6A /* Assets.xcassets */,
-				5F9D147A25BF5C5200808C6A /* LaunchScreen.storyboard */,
+				5F85229325ECBF5E00A2C4D0 /* resource */,
+				5F85229025ECBF1E00A2C4D0 /* Model */,
+				5F85229125ECBF2500A2C4D0 /* View */,
+				5F85229225ECBF2A00A2C4D0 /* Controller */,
 				5F9D147D25BF5C5200808C6A /* Info.plist */,
 			);
 			path = testCart;
@@ -161,6 +216,14 @@
 			path = testCartUITests;
 			sourceTree = "<group>";
 		};
+		8CA69BEB8CE1C4670A9D37A6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B3C27DF26987433D22BCD7 /* Pods_testCart.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -168,9 +231,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5F9D149625BF5C5300808C6A /* Build configuration list for PBXNativeTarget "testCart" */;
 			buildPhases = (
+				A86B48BF6DCFEDD6A44F9959 /* [CP] Check Pods Manifest.lock */,
 				5F9D146825BF5C5000808C6A /* Sources */,
 				5F9D146925BF5C5000808C6A /* Frameworks */,
 				5F9D146A25BF5C5000808C6A /* Resources */,
+				A12B5616FF931F248B2054EE /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -288,6 +353,48 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		A12B5616FF931F248B2054EE /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-testCart/Pods-testCart-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-testCart/Pods-testCart-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-testCart/Pods-testCart-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A86B48BF6DCFEDD6A44F9959 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-testCart-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		5F9D146825BF5C5000808C6A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -296,8 +403,10 @@
 				5FB536DE25DEFAFD0054823A /* ImagePicker_VC.swift in Sources */,
 				5F29DF0225E432F500E1EF03 /* SliderCVcell.swift in Sources */,
 				5F9D14A425BF5CA600808C6A /* TableViewCell.swift in Sources */,
+				5F1DE7A3260D185100E32C3B /* buttonAnimation_VC.swift in Sources */,
 				5F9D147025BF5C5000808C6A /* AppDelegate.swift in Sources */,
 				5FB536E325DEFF570054823A /* CamaraAndImgPicker_VC.swift in Sources */,
+				5F85229525ECBFD700A2C4D0 /* ContainerView_VC.swift in Sources */,
 				5F05FABC25DC9C9600AF1A83 /* DropDownCell.swift in Sources */,
 				5F05FAB625DC9C1A00AF1A83 /* DropDownVC.swift in Sources */,
 				5FED5ECF25BF654E00E7033E /* ViewController.swift in Sources */,
@@ -477,10 +586,12 @@
 		};
 		5F9D149725BF5C5300808C6A /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 03A39792AFA0BB75C835864C /* Pods-testCart.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = A37PD25RSZ;
 				INFOPLIST_FILE = testCart/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -495,10 +606,12 @@
 		};
 		5F9D149825BF5C5300808C6A /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 43C3367FBED75C14BB95B814 /* Pods-testCart.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = A37PD25RSZ;
 				INFOPLIST_FILE = testCart/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
