@@ -12,7 +12,7 @@ class buttonAnimation_VC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+        
     }
     
     @IBAction func actBtn(_ button: TransitionButton) {
